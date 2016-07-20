@@ -1,0 +1,954 @@
+[
+  {
+    "title": "Review",
+    "short_title": "Review",
+    "guid": "70354234-121e-45a6-aeb4-79b8f5a52077",
+    "number": "0.0",
+    "level": "1"
+  },
+  {
+    "title": "Arithmetic With Fractions",
+    "short_title": "Arithmetic With Fractions",
+    "guid": "4d2ad936-b6cf-454c-8f62-31303445489c",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Adding and Subtracting Fractions",
+    "short_title": "Adding and Subtracting Fractions",
+    "guid": "279f9719-1605-44c9-8259-2555547d9fa2",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiplying Fractions",
+    "short_title": "Multiplying Fractions",
+    "guid": "84e1f443-2fbc-4657-ae8a-575c07b204de",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Dividing Fractions",
+    "short_title": "Dividing Fractions",
+    "guid": "05ab0ee5-8430-4915-bdf6-f755f6bb4c5c",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Arithmetic of Real Numbers",
+    "short_title": "Arithmetic of Real Numbers",
+    "guid": "d30a9a0d-c79d-4db1-8016-d88fd27e3f6d",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Adding and Subtracting Real Numbers",
+    "short_title": "Adding and Subtracting Real Numbers",
+    "guid": "3dd717c2-1435-4340-a3ee-ad0164380de4",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiplying and Dividing Real Numbers",
+    "short_title": "Multiplying and Dividing Real Numbers",
+    "guid": "3fce5cff-b72a-4319-a9aa-2ed050fe9114",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Simplify Exoressions With Real Numbers",
+    "short_title": "Simplify Exoressions With Real Numbers",
+    "guid": "74452b28-4680-4db4-a75c-ee1ccb71fee1",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Simplify Compound expressions with real numbers",
+    "short_title": "Simplify Compound expressions with real numbers",
+    "guid": "0e76799e-2009-43f3-9531-495e14895ff8",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Percent",
+    "short_title": "Percent",
+    "guid": "fcc481d5-b1c9-43ab-bdb5-b9854b906354",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Percent Basics",
+    "short_title": "Percent Basics",
+    "guid": "9434f257-2c50-4a28-8a1c-6cfd2a42a0cf",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Percent Equations",
+    "short_title": "Percent Equations",
+    "guid": "ba8f6aec-95bb-40d0-b6ee-410408da44ee",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Percent Change and Interest Problems",
+    "short_title": "Percent Change and Interest Problems",
+    "guid": "7de1c7f0-3fd9-467b-aa5a-a1c6547d8cbc",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solving Equations and Inequalities",
+    "short_title": "Solving Equations and Inequalities",
+    "guid": "18bb1c7a-b10f-4ffa-a2f2-2dd69c1a2791",
+    "number": "1.0",
+    "level": "1"
+  },
+  {
+    "title": "Solve One-Step Linear Equations",
+    "short_title": "Solve One-Step Linear Equations",
+    "guid": "3be6d077-4d8a-4b93-a784-09597deb8815",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Addition Property of Equality",
+    "short_title": "Addition Property of Equality",
+    "guid": "bcf0388e-2d8e-4463-ae93-6d0560743462",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiplication Property of Equlity",
+    "short_title": "Multiplication Property of Equlity",
+    "guid": "1d0ba567-72ca-44ca-b5b6-3816d13a4972",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Multi-Step Linear Equations",
+    "short_title": "Solve Multi-Step Linear Equations",
+    "guid": "a88fad0e-736e-4947-a3e4-9d2e51194bdc",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Multi-Step Equations",
+    "short_title": "Multi-Step Equations",
+    "guid": "42d59c58-55d3-48e2-b7df-8aa77a8dea44",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "The Distributive Property",
+    "short_title": "The Distributive Property",
+    "guid": "40b39f96-bc96-40ff-a493-1642cbd583ee",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Classify Solutions to Linear Equations",
+    "short_title": "Classify Solutions to Linear Equations",
+    "guid": "47f05433-64b5-4b11-b7b0-07517d8053ec",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Problem Solving",
+    "short_title": "Problem Solving",
+    "guid": "76a7dabf-ed26-4105-99a8-56cf9b7507c2",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Define a Process for Problem Solving",
+    "short_title": "Define a Process for Problem Solving",
+    "guid": "059a85db-6d19-450d-9cf4-7cce5f9e1e51",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Rates",
+    "short_title": "Rates",
+    "guid": "e2ad3ea9-afe3-43f3-ab78-a12cbe4b814f",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Further Applications of Linear Equations",
+    "short_title": "Further Applications of Linear Equations",
+    "guid": "4936d9f3-651a-46b5-b0e7-ccf750aa2db2",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Single and Multi Step Inequalities",
+    "short_title": "Solve Single and Multi Step Inequalities",
+    "guid": "4da7f12c-ddb2-4fe6-b31b-0e9140a33f57",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Describe Solutions to Inequalities",
+    "short_title": "Describe Solutions to Inequalities",
+    "guid": "cfbd74fc-3e84-40f5-bf4a-92b74218be3c",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Single-Step Inequalities",
+    "short_title": "Solve Single-Step Inequalities",
+    "guid": "550081fb-2625-4b2a-bc1e-f820aabb7d71",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Multi-Step Inequalities",
+    "short_title": "Solve Multi-Step Inequalities",
+    "guid": "6dd666b2-e3e2-4175-a398-d4796fc23532",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Compound Inequalities",
+    "short_title": "Solve Compound Inequalities",
+    "guid": "cc48a604-2a16-4fb0-b7aa-e8a618f73d81",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Describe Sets as Intersections or Unions",
+    "short_title": "Describe Sets as Intersections or Unions",
+    "guid": "eb704487-c5cf-44ed-8e54-80ae227039bd",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Compound Inequalities - OR",
+    "short_title": "Solve Compound Inequalities - OR",
+    "guid": "8b9b0d6f-6c90-4caf-a801-74376064e892",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Compound Inequalities - AND",
+    "short_title": "Solve Compound Inequalities - AND",
+    "guid": "4bc9d166-b88f-4cc6-9e27-d5227d1f7129",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Solve Absolute Value Inequalities",
+    "short_title": "Solve Absolute Value Inequalities",
+    "guid": "86a661e0-babc-438d-8177-e36d1b06fbf6",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Graphing",
+    "short_title": "Graphing",
+    "guid": "23f564ce-2617-48b3-8145-4225202a33b1",
+    "number": "2.0",
+    "level": "1"
+  },
+  {
+    "title": "The Coordinate Plane",
+    "short_title": "The Coordinate Plane",
+    "guid": "058abf66-297a-41ed-8730-b474c9123bb0",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Plot Ordered Pairs",
+    "short_title": "Plot Ordered Pairs",
+    "guid": "901690b5-23d5-4288-9d22-3718e34beb53",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Plot Ordered Pairs",
+    "short_title": "Plot Ordered Pairs",
+    "guid": "73f2961e-0767-4aff-b77d-14fcf5a6b6ba",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Graph Linear Equations",
+    "short_title": "Graph Linear Equations",
+    "guid": "3215f7c7-e295-40c8-863e-ad2c224f7ba5",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Graphing Using Ordered Pairs",
+    "short_title": "Graphing Using Ordered Pairs",
+    "guid": "9de83b1c-9cb7-4816-a1e8-117093c9c77f",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Graph Linear Equations in Different Forms",
+    "short_title": "Graph Linear Equations in Different Forms",
+    "guid": "baba423a-eb54-42a9-abc8-cf62a233de5f",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Intercepts",
+    "short_title": "Intercepts",
+    "guid": "e15e8d51-7121-47cc-979f-07c7ad4756db",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Slope",
+    "short_title": "Slope",
+    "guid": "8edca4c2-00f8-491b-8a8b-63308e4aa034",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Slope From a Graph",
+    "short_title": "Slope From a Graph",
+    "guid": "e8f64f40-8c02-44b6-830c-24108f5fcfd2",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Find the Slope of a Line Given two Points",
+    "short_title": "Find the Slope of a Line Given two Points",
+    "guid": "e204ef99-80d0-4dfc-b543-385f2dc38b28",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Find the Slope of Horizontal and Vertical Lines",
+    "short_title": "Find the Slope of Horizontal and Vertical Lines",
+    "guid": "a7ffbc48-4f97-4bde-9cbc-53a0ae834823",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Equations of Lines",
+    "short_title": "Equations of Lines",
+    "guid": "6829a758-1652-4898-8a63-67f690363398",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Slope Intercept Form of a Line",
+    "short_title": "Slope Intercept Form of a Line",
+    "guid": "d3f00df5-50e0-4c8e-89f6-00c18abbd164",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Point Slope Form",
+    "short_title": "Point Slope Form",
+    "guid": "668c8d89-6409-45e1-b1b8-61e72ae22d9c",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Given Two Points Write the Equation of a Line",
+    "short_title": "Given Two Points Write the Equation of a Line",
+    "guid": "6f40581f-2b71-4b59-b548-c8db22852976",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Parallel and Perpendicular Lines",
+    "short_title": "Parallel and Perpendicular Lines",
+    "guid": "c2654f67-1185-4395-9316-5b44734ed5a9",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Slopes of Parallel and Perpendicular LInes",
+    "short_title": "Slopes of Parallel and Perpendicular LInes",
+    "guid": "f8988696-bdf7-45b8-84e8-d8513332c9d3",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Write the Equations of Parallel and Perpendicular Lines",
+    "short_title": "Write the Equations of Parallel and Perpendicular Lines",
+    "guid": "48719ad4-2494-4501-bcf8-41bc5453db3a",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Applications of Graphs",
+    "short_title": "Applications of Graphs",
+    "guid": "e5b157f3-99e2-4029-b70b-ff2f90571eb8",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Interpreting Slope in Equations and Graphs",
+    "short_title": "Interpreting Slope in Equations and Graphs",
+    "guid": "fbb4d1fb-e2b1-4768-996e-79372a1eb4e9",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Interpreting the y-intercept and making predictions",
+    "short_title": "Interpreting the y-intercept and making predictions",
+    "guid": "e20ad959-9a97-4440-b4ef-eadf70c81d58",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Graphing Linear Inequalities",
+    "short_title": "Graphing Linear Inequalities",
+    "guid": "1bda5191-9807-4dff-aa0e-f614936410c0",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Solutions to Inequalities",
+    "short_title": "Solutions to Inequalities",
+    "guid": "019f7a5f-1a0e-4d34-85b5-af411f8e0249",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Graph an Inequaliity in Two Variables",
+    "short_title": "Graph an Inequaliity in Two Variables",
+    "guid": "00ca64e8-227b-4e85-84c1-4671934c7c34",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Systems of Equations and Inequalities",
+    "short_title": "Systems of Equations and Inequalities",
+    "guid": "d71b3ffb-c4f3-41f0-bb92-bc0d00925203",
+    "number": "3.0",
+    "level": "1"
+  },
+  {
+    "title": "Solutions for Systems of Equations and Inequalities",
+    "short_title": "Solutions for Systems of Equations and Inequalities",
+    "guid": "5b3ebd47-c86c-4b59-89d7-623ad19179eb",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Graph Systems",
+    "short_title": "Graph Systems",
+    "guid": "3851987c-52ae-43db-9677-c5912855bb69",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Ordered Pairs as Solutions to Systems",
+    "short_title": "Ordered Pairs as Solutions to Systems",
+    "guid": "a5f2cb7a-8bb7-4a20-a8c5-8113fcb4b813",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Classify Solutions for Systems",
+    "short_title": "Classify Solutions for Systems",
+    "guid": "0e7b4a76-269f-4e3a-bcaf-4622ef2ea8e5",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Algebraic Methods for Solving Systems",
+    "short_title": "Algebraic Methods for Solving Systems",
+    "guid": "7b1b2491-d4fc-45a9-8838-d6db85108992",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "The Substitution Method",
+    "short_title": "The Substitution Method",
+    "guid": "779df072-0f1e-48ed-84d5-56fd86c948ce",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "The Elimination Method Without Multiplication",
+    "short_title": "The Elimination Method Without Multiplication",
+    "guid": "01e85482-91fa-4268-8a9e-204a2f79391d",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "The Elimination Method With Multiplication",
+    "short_title": "The Elimination Method With Multiplication",
+    "guid": "abd1b59a-c666-4603-a99e-a202b9e925e1",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Problem Solving With Systems",
+    "short_title": "Problem Solving With Systems",
+    "guid": "b1e6392c-4e27-4bf1-aa53-b88be6e3a273",
+    "number": "0.0",
+    "level": "2"
+  },
+  {
+    "title": "Mixture Problems",
+    "short_title": "Mixture Problems",
+    "guid": "63134314-c9a1-49f1-9248-d9a124d80283",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Value Problems",
+    "short_title": "Value Problems",
+    "guid": "9a317605-8f1b-4c2f-a006-e6550e2a3ab0",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Cost and Revenue Problems",
+    "short_title": "Cost and Revenue Problems",
+    "guid": "591bcf92-cb48-452b-be77-cea66c927980",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Exponents",
+    "short_title": "Exponents",
+    "guid": "07f67d39-d875-4dd4-bc9a-c285388ab034",
+    "number": "4.0",
+    "level": "1"
+  },
+  {
+    "title": "Outcome Apply Exponent Rules",
+    "short_title": "Outcome Apply Exponent Rules",
+    "guid": "21180eca-542e-40b8-9a46-325a03901839",
+    "number": "4.1",
+    "level": "2"
+  },
+  {
+    "title": "Terms and Expressions With Exponents",
+    "short_title": "Terms and Expressions With Exponents",
+    "guid": "d4f6d5ba-a1e3-4e98-9c7a-7705d141bddf",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Product and Quotient Rules",
+    "short_title": "Product and Quotient Rules",
+    "guid": "b994e0bb-32fa-4185-b422-3f9515ef1c4c",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "The Power Rule for Exponents",
+    "short_title": "The Power Rule for Exponents",
+    "guid": "42c6269b-756e-4e06-86b3-ad70796ffcb2",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Negative and Zero Exponent Rules",
+    "short_title": "Negative and Zero Exponent Rules",
+    "guid": "cbdc779a-6ca0-4f81-a7fd-5647c7bb163a",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Simplify Compound Expressions",
+    "short_title": "Simplify Compound Expressions",
+    "guid": "92681500-384b-4320-82c9-dc206e83b937",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Outcome Scientific Notation",
+    "short_title": "Outcome Scientific Notation",
+    "guid": "5ed3ffb2-d898-485a-a128-f3a2796bbe2b",
+    "number": "4.2",
+    "level": "2"
+  },
+  {
+    "title": "Writing Scientific Notation",
+    "short_title": "Writing Scientific Notation",
+    "guid": "7f845e4d-c2d8-43e5-a487-1c0e5c0edc9f",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiply and Divide Numbers in Scientific Notation",
+    "short_title": "Multiply and Divide Numbers in Scientific Notation",
+    "guid": "0a944365-a227-4106-a5cf-481d7c08b8ed",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Problem Solving With Scientific Notation",
+    "short_title": "Problem Solving With Scientific Notation",
+    "guid": "b644c985-4a9c-4608-a5f1-8287a3afae40",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Polynomials",
+    "short_title": "Polynomials",
+    "guid": "54765713-bd53-48a8-bfe9-292adc781f6c",
+    "number": "5.0",
+    "level": "1"
+  },
+  {
+    "title": "Single Variable Polynomials",
+    "short_title": "Single Variable Polynomials",
+    "guid": "8bb1e634-d949-4a7c-a634-fa2981d4af77",
+    "number": "5.1",
+    "level": "2"
+  },
+  {
+    "title": "Define and Evaluate Polynomials",
+    "short_title": "Define and Evaluate Polynomials",
+    "guid": "c139fc4e-030c-4e4d-aa84-6f66c347d539",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Simplify Polynomials",
+    "short_title": "Simplify Polynomials",
+    "guid": "f7358300-fcdc-4be6-aa32-e72c688bd756",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Operations on Polynomials",
+    "short_title": "Operations on Polynomials",
+    "guid": "9aff7cfe-651b-4761-90e2-149a0c8539ea",
+    "number": "5.2",
+    "level": "2"
+  },
+  {
+    "title": "Add polynomials",
+    "short_title": "Add polynomials",
+    "guid": "265cd070-16bc-48be-9f99-5dc54549d2ea",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Subtract Polynomials",
+    "short_title": "Subtract Polynomials",
+    "guid": "7138125b-31f7-4e29-96f4-6c99f61777f1",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiply Polynomials",
+    "short_title": "Multiply Polynomials",
+    "guid": "568a1597-2f8a-429c-b49b-fb696f31fabc",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiply Binomials",
+    "short_title": "Multiply Binomials",
+    "guid": "3cef4faa-7e64-4514-b691-56b8ae864729",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Divide Polynomials",
+    "short_title": "Divide Polynomials",
+    "guid": "8bf2c997-7d4f-4755-87be-992c90fc851f",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Applications of Polynomials",
+    "short_title": "Applications of Polynomials",
+    "guid": "2c6bdcf6-6c8c-4d88-8cc7-a4cdbec0d6d4",
+    "number": "5.3",
+    "level": "2"
+  },
+  {
+    "title": "Applications Involving Perimeter, Area, and Volume",
+    "short_title": "Applications Involving Perimeter, Area, and Volume",
+    "guid": "76ef1921-7859-4a8e-9a01-f1c69cd83dcc",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Applications of Multiplying and Dividing Polynomials",
+    "short_title": "Applications of Multiplying and Dividing Polynomials",
+    "guid": "cc9ad11c-c324-474b-a1d8-c4902f3ce140",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Factoring",
+    "short_title": "Factoring",
+    "guid": "ee514027-6d11-434a-b166-bdf711d73192",
+    "number": "6.0",
+    "level": "1"
+  },
+  {
+    "title": "Solve Simple Polynomial Equations",
+    "short_title": "Solve Simple Polynomial Equations",
+    "guid": "28f1bb7b-b4c8-4768-81cd-0492a783de85",
+    "number": "6.1",
+    "level": "2"
+  },
+  {
+    "title": "The Zero Product Principle",
+    "short_title": "The Zero Product Principle",
+    "guid": "e00fa35b-62ba-40e2-9bfb-e8ae461cb54a",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "The greatest Common Factor of a Polynomial",
+    "short_title": "The greatest Common Factor of a Polynomial",
+    "guid": "78c1e777-4095-4e48-a6a3-3343c9b432f2",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Simple Polynomial Equations",
+    "short_title": "Simple Polynomial Equations",
+    "guid": "1d8d929a-e24e-4db5-b2f3-385a75f1f4a6",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Factoring Methods",
+    "short_title": "Factoring Methods",
+    "guid": "776b5ce0-9d77-40dc-abb0-7d4f0b85b59c",
+    "number": "6.2",
+    "level": "2"
+  },
+  {
+    "title": "Factor by Grouping",
+    "short_title": "Factor by Grouping",
+    "guid": "42d88d41-30f6-485e-adf2-2f1fd7bf1b35",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Factor Trinomials Part I",
+    "short_title": "Factor Trinomials Part I",
+    "guid": "15ed6384-2e11-4b71-a364-c0c53408f149",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Factor Trinomials Part II",
+    "short_title": "Factor Trinomials Part II",
+    "guid": "e5c26ee3-9312-455b-94f5-ab5de5e4d963",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Applications of Trinomials",
+    "short_title": "Applications of Trinomials",
+    "guid": "f89965f8-10fd-4288-b972-576b08866ff6",
+    "number": "6.3",
+    "level": "2"
+  },
+  {
+    "title": "Quadratic Equations",
+    "short_title": "Quadratic Equations",
+    "guid": "ca5afe97-ee9d-461e-9ece-1fe3156cddf0",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Projectiles",
+    "short_title": "Projectiles",
+    "guid": "a2104ed2-5023-41cc-9542-a6281786e897",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Pythagorean Theorem",
+    "short_title": "Pythagorean Theorem",
+    "guid": "7a1f50cd-ed61-4560-9dad-584b3c758bc1",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Rational Expressions",
+    "short_title": "Rational Expressions",
+    "guid": "1307e41c-0c34-4491-a2e0-d4e49bbdb154",
+    "number": "7.0",
+    "level": "1"
+  },
+  {
+    "title": "Operations on Rational Expressions",
+    "short_title": "Operations on Rational Expressions",
+    "guid": "b6ad11c0-95d8-4df5-84cd-014ae7a0ca27",
+    "number": "7.1",
+    "level": "2"
+  },
+  {
+    "title": "Define and Simplify Rational Expressions",
+    "short_title": "Define and Simplify Rational Expressions",
+    "guid": "d82a7589-5f35-41f6-a9e7-0241f110ca21",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Multiply and Divide Rational Expressions",
+    "short_title": "Multiply and Divide Rational Expressions",
+    "guid": "2cdf7223-3395-4f35-9957-42aa60b41ece",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Add and Subtract Rational Expressions Part I",
+    "short_title": "Add and Subtract Rational Expressions Part I",
+    "guid": "74730643-fbf7-40be-a01e-4e301ce52171",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Add and Subtract Rational Expressions Part II",
+    "short_title": "Add and Subtract Rational Expressions Part II",
+    "guid": "aa7e4b5d-bfc5-4aac-9d98-5a913e2b8135",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Rational Equations",
+    "short_title": "Rational Equations",
+    "guid": "df63c7b8-4c79-43ff-a537-d21ab7a3c5f4",
+    "number": "7.2",
+    "level": "2"
+  },
+  {
+    "title": "Solve Rational Equations",
+    "short_title": "Solve Rational Equations",
+    "guid": "d7b23d27-0b61-49d9-851d-517ff2644e2e",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Proportions",
+    "short_title": "Proportions",
+    "guid": "cb251fc8-cb22-44e2-8048-6125dd5ef12e",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Work",
+    "short_title": "Work",
+    "guid": "37804653-158a-4240-8b73-b87ba0e274e2",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Variation",
+    "short_title": "Variation",
+    "guid": "3925c168-c7f7-4863-83e1-ff597382733c",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Introduction to Roots and Rational Exponents",
+    "short_title": "Introduction to Roots and Rational Exponents",
+    "guid": "ce784c43-5163-451c-979a-121e6a0dab1e",
+    "number": "8.0",
+    "level": "1"
+  },
+  {
+    "title": "Roots and Rational Exponents",
+    "short_title": "Roots and Rational Exponents",
+    "guid": "c79937c8-3cb3-43a0-a597-b5ed120cf60b",
+    "number": "8.1",
+    "level": "2"
+  },
+  {
+    "title": "Square Roots",
+    "short_title": "Square Roots",
+    "guid": "87b0738d-f623-4a72-8c7f-377de4eedfb4",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Simplify Square Roots with Variables",
+    "short_title": "Simplify Square Roots with Variables",
+    "guid": "aeb4cc51-db6b-418c-9d82-cd32e30a6696",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Cube Roots",
+    "short_title": "Cube Roots",
+    "guid": "c9aa580d-cdce-43e8-80c5-310dfdef6956",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Rational Exponents",
+    "short_title": "Rational Exponents",
+    "guid": "ba673bd1-7a99-4d41-b0b4-e2659cc2831d",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Operations With Radicals",
+    "short_title": "Operations With Radicals",
+    "guid": "94c3831a-ba40-4320-83a7-7e5f3733d9e8",
+    "number": "8.2",
+    "level": "2"
+  },
+  {
+    "title": "Multiply and Divide Radical Expressions",
+    "short_title": "Multiply and Divide Radical Expressions",
+    "guid": "2949af20-ec34-4a97-98d2-573a33c17294",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Add and Subtract Radicals",
+    "short_title": "Add and Subtract Radicals",
+    "guid": "042b3bf8-b40a-4a37-a3e7-d74bf7bfb571",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Rationalize Denominators",
+    "short_title": "Rationalize Denominators",
+    "guid": "f8a0cabd-2474-4bc4-ab63-ecd3a202aeb1",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Radical Equations",
+    "short_title": "Radical Equations",
+    "guid": "1fed6d10-8f4d-4b34-abd3-f9071be06ce5",
+    "number": "8.3",
+    "level": "2"
+  },
+  {
+    "title": "Solve Radical Equations",
+    "short_title": "Solve Radical Equations",
+    "guid": "60313c10-a957-4321-994b-c119978babe4",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "Square Roots and Completing the Square",
+    "short_title": "Square Roots and Completing the Square",
+    "guid": "bf2ca16f-92f5-42e3-b9f1-a8a118b24a25",
+    "number": "0.0.0",
+    "level": "3"
+  },
+  {
+    "title": "The Quadratic Formula",
+    "short_title": "The Quadratic Formula",
+    "guid": "5a3d744e-ae52-4692-bfdb-030cea73be14",
+    "number": "0.0.0",
+    "level": "3"
+  }
+]	"This is block 1": {
+		"Adding and Subtracting Fractions": ["168", "169", "170"],
+		"Arithmetic With Fractions": ["168", "169"]
+	},
+	"This is block 2": {
+		"math101": ["168", "169", "170"]
+	}
+}
