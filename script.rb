@@ -3,17 +3,19 @@ require 'json'
 require 'pp'
 
 mom_questions = JSON.parse(File.read("json/mom.json"))
-outcomes = File.read("json/assessments.txt")
+outcomes = File.read("json/assessments.json")
 # outcomes = outcomes.to_h
 mom_questions = mom_questions.to_h
 TOFILE = []
 PRINT = ""
+puts outcomes 
 
-outcomes = [
+abeer = [
   {guid: "9aeeb040", short_name: "Arithmetic With Fractions", level: 'primary',},
   {guid: "8a98e185776b", short_name: "Adding and Subtracting Fractions", level: 'secondary'},
   {guid: "333333", short_name: "math101", level: 'third'},
 ]
+puts abeer
 def matchNames(mom_questions,currant_outcome)
   puts currant_outcome[:short_name]
   mom_questions.map do |key,val|
@@ -26,9 +28,7 @@ def matchNames(mom_questions,currant_outcome)
   end
 end
 
-
-
-outcomes.each do|key,value|  
+outcomes.each do |key,value|  
   puts key
   matchNames(mom_questions,key)
 end 
