@@ -7,7 +7,7 @@ outcomes = JSON.load(File.read("json/assessments.json"))
 outcomes = outcomes.to_a
 mom_questions = mom_questions.to_h
 TOFILE = []
-PRINT = ""
+# PRINT = ""
 
 
 def matchNames(mom_questions,currant_outcome) 
@@ -23,15 +23,22 @@ end
 outcomes.each do |key,value| 
   matchNames(mom_questions,key)
 end 
+puts 
 
- 
+
+print = ""
 TOFILE.each do |key,value| 
-  level = key[:level]
- if level = 1 
-    PRINT << "# #{key[:number]} #{key[:title]}\n    #{key[:short_title]} \n ~#{key[:guid]} \n"
- elsif level = 2
-    PRINT << "## #{key[:number]} #{key[:title]} \n  #{key[:short_title]} \n ~#{key[:guid]} \n"
- end
+  print << case key[:level]
+  when '1'
+    # "# #{key[:level]} \n"
+    "# #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n\n"
+  when '2'
+    # "## #{key[:level]} \n"
+    "## #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n\n"
+  when '3'
+    # "### #{key[:level]} \n"
+     "### #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n\n"
+  end
 end 
-File.open("out.txt",'w') {|f| f.write(PRINT )}
+File.open("out.txt",'w') {|f| f.write(print)}
 
