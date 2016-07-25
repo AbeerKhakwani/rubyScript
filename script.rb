@@ -2,7 +2,6 @@
 require 'json'
 require 'pp'
 
-
 unless ARGV[0] && ARGV[1]
   puts "Please add the Json file with mom assisment title and  qustionids fallowed by the outcomes json"
   exit
