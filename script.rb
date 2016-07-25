@@ -3,48 +3,35 @@ require 'json'
 require 'pp'
 
 mom_questions = JSON.parse(File.read("json/mom.json"))
-outcomes = File.read("json/assessments.json")
-# outcomes = outcomes.to_h
+outcomes = JSON.load(File.read("json/assessments.json"))
+outcomes = outcomes.to_a
 mom_questions = mom_questions.to_h
 TOFILE = []
 PRINT = ""
-puts outcomes 
 
-abeer = [
-  {guid: "9aeeb040", short_name: "Arithmetic With Fractions", level: 'primary',},
-  {guid: "8a98e185776b", short_name: "Adding and Subtracting Fractions", level: 'secondary'},
-  {guid: "333333", short_name: "math101", level: 'third'},
-]
-puts abeer
-def matchNames(mom_questions,currant_outcome)
-  puts currant_outcome[:short_name]
+
+def matchNames(mom_questions,currant_outcome) 
   mom_questions.map do |key,val|
     val.each do |key,val|
-      if key == currant_outcome[:short_name]
-        TOFILE << {guid: currant_outcome[:guid], short_name: currant_outcome[:short_name], level: currant_outcome[:level], qid: val }
-        puts TOFILE
+      if key == currant_outcome["short_title"]
+        TOFILE << {guid: currant_outcome["guid"],title:currant_outcome["title"], short_title: currant_outcome["short_title"], level: currant_outcome["level"], qid: val , number:currant_outcome["number"]}
       end
     end 
   end
 end
 
-outcomes.each do |key,value|  
-  puts key
+outcomes.each do |key,value| 
   matchNames(mom_questions,key)
 end 
 
-puts TOFILE
  
 TOFILE.each do |key,value| 
-  PRINT << case key[:level]
-           when 'primary'
-             "# #{key[:level]} \n"
-           when 'secondary'
-             "## #{key[:level]} \n"
-           when 'third'
-             "### #{key[:level]} \n"
-         end
+  level = key[:level]
+ if level = 1 
+    PRINT << "# #{key[:number]} #{key[:title]}\n    #{key[:short_title]} \n ~#{key[:guid]} \n"
+ elsif level = 2
+    PRINT << "## #{key[:number]} #{key[:title]} \n  #{key[:short_title]} \n ~#{key[:guid]} \n"
+ end
 end 
-
 File.open("out.txt",'w') {|f| f.write(PRINT )}
 
