@@ -2,12 +2,17 @@
 require 'json'
 require 'pp'
 
-mom_questions = JSON.parse(File.read("json/mom.json"))
-outcomes = JSON.load(File.read("json/assessments.json"))
+
+unless ARGV[0] && ARGV[1]
+  puts "Please add the Json file with mom assisment title and  qustionids fallowed by the outcomes json"
+  exit
+end
+
+mom_questions = JSON.parse(File.read(ARGV[0]))
+outcomes = JSON.load(File.read(ARGV[1]))
 outcomes = outcomes.to_a
 mom_questions = mom_questions.to_h
 TOFILE = []
-# PRINT = ""
 
 
 def matchNames(mom_questions,currant_outcome) 
@@ -25,19 +30,24 @@ outcomes.each do |key,value|
 end 
 puts 
 
+def returnString(questionId_array)
+  string= ""
+  questionId_array.each do |key,value|
+    string += "\n #{key} \n"
+  end 
+  return string
+end
 
 print = ""
 TOFILE.each do |key,value| 
+  qids= returnString(key[:qid])
   print << case key[:level]
   when '1'
-    # "# #{key[:level]} \n"
-    "# #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n\n"
+    "\n # #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
   when '2'
-    # "## #{key[:level]} \n"
-    "## #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n\n"
+    "\n ## #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
   when '3'
-    # "### #{key[:level]} \n"
-     "### #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n\n"
+    "\n ### #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
   end
 end 
 File.open("out.txt",'w') {|f| f.write(print)}
