@@ -61,6 +61,8 @@ end
 end
 
 print = ""
+
+# for each item in the TOFILE array, returns line break separated assessment number, title, short title, guid, and question id
 TOFILE.each do |key,value|
   qids= returnString(key[:qid])
   print << case key[:level]
@@ -72,9 +74,13 @@ TOFILE.each do |key,value|
     "\n ### #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
   end
 end
+
+# writes the output file to /output.txt
 File.open("output.txt",'w') {|f| f.write(print)}
+# prints following command line message
 puts "The output file path: " + Dir.getwd + "/output.txt"
 
+# writes the content of the NOQS file to /withoutquestions.txt
 File.open("withoutquestions.txt",'w') {|f| f.write(NOQS)}
-
+# prints following command line message
 puts "The Assessments without questionIds are listed in this file :  " + Dir.getwd + "/withoutquestions.txt"
