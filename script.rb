@@ -62,4 +62,4 @@ puts "The output file path: " + Dir.getwd + "/output.txt"
 
 File.open("withoutquestions.txt",'w') {|f| f.write(NOQS)}
 
-puts "The  Assisgments did not have questionIds are listed in this file :  " + Dir.getwd + "/withoutquestions.txt"
+puts "The Assessments without questionIds are listed in this file :  " + Dir.getwd + "/withoutquestions.txt"
