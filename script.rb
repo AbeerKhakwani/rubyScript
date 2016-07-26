@@ -11,6 +11,7 @@ end
 # sets first file to mom_questions and converts to a hash
 mom_questions = JSON.parse(File.read(ARGV[0]))
 mom_questions = mom_questions.to_h
+# puts mom_questions
 
 # sets second file to outcomes and converts to an array
 outcomes = JSON.load(File.read(ARGV[1]))
@@ -65,13 +66,16 @@ print = ""
 # for each item in the TOFILE array, returns line break separated assessment number, title, short title, guid, and question id
 TOFILE.each do |key,value|
   qids= returnString(key[:qid])
-  print << case key[:level]
+  case key[:level]
   when '1'
     "\n # #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
+    print << key[:level]
   when '2'
     "\n ## #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
-  when '3'
+    print << key[:level]
+else '3'
     "\n ### #{key[:number]} #{key[:title]}\n#{key[:short_title]}\n ~ #{key[:guid]} \n #{qids} \n"
+    print << key[:level]
   end
 end
 
